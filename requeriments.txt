@@ -1,0 +1,2 @@
+Flask==3.0.3
+guricorn==23.0.0
